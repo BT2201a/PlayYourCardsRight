@@ -1,3 +1,4 @@
 # PlayYourCardsRight
 
-Assignment 4: Home Ltd Estate Agent Website 
+Assignment 3: The classic higher or lower card game featuring "you get nothing for a pair... NOT IN THIS GAME!"
+
